@@ -7,7 +7,7 @@ B&W a novel participatory MCS tool where contributors are able to report the cur
 - A client module, running as a mobile application that allows users to submitt the current state of a beach and
 - A back-end server that collects and aggregates all the reports from the contributors. It also deals with the requests from the consumers who want to know the current state of a particular beach.
 
-The orchestration between the client and the server is done by means of a web service based on the Simple Object Access Protocol (SOAP). The source code of the mobile application is in the [src/client folder](https://github.com/jpenaab/tp/tree/main/src/client) and the code of the server in within the [src/server](https://github.com/jpenaab/tp/tree/main/src/server) folder.
+The orchestration between the client and the server is done by means of a web service based on the Simple Object Access Protocol (SOAP). The source code of the mobile application is in the [src/client](https://github.com/jpenaab/tp/tree/main/src/client)folder and the code of the server in within the [src/server](https://github.com/jpenaab/tp/tree/main/src/server) folder.
 
 ## Libraries and Dependencies
 - Android 6.0 (Marshmallow, API 23) 
